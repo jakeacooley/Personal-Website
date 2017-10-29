@@ -1,0 +1,24 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^5.5.1",
+    "react": "^16.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chooster/Personal-Website.git"
+  },
+  "author": "Jake Cooley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chooster/Personal-Website/issues"
+  },
+  "homepage": "https://github.com/Chooster/Personal-Website#readme"
+}
