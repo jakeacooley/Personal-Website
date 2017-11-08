@@ -4,7 +4,8 @@ import FontAwesome from 'react-fontawesome'
 export default () => {
   return (
     <div className="page-wrapper contact-wrapper">
-      <a href="https://www.github.com/chooster" target="_blank">
+      <a href="https://www.github.com/chooster"
+      target="_blank" rel="noopener noreferrer">
         <FontAwesome
           className='github'
           name='github-square'
@@ -12,7 +13,8 @@ export default () => {
           style={{ color: '#FED766' }}
         />
       </a>
-      <a href="https://www.linkedin.com/in/jake-cooley-576977b1/" target="_blank">
+      <a href="https://www.linkedin.com/in/jake-cooley-576977b1/"
+      target="_blank" rel="noopener noreferrer">
         <FontAwesome
           className='linkedin'
           name='linkedin-square'
