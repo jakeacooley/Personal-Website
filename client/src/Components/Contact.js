@@ -7,7 +7,7 @@ export default () => {
       <a href="https://www.github.com/chooster"
       target="_blank" rel="noopener noreferrer">
         <FontAwesome
-          className='github'
+          className='icon'
           name='github-square'
           size='2x'
           style={{ color: '#FED766' }}
@@ -16,7 +16,7 @@ export default () => {
       <a href="https://www.linkedin.com/in/jake-cooley-576977b1/"
       target="_blank" rel="noopener noreferrer">
         <FontAwesome
-          className='linkedin'
+          className='icon'
           name='linkedin-square'
           size='2x'
           style={{ color: '#FED766' }}
@@ -24,8 +24,8 @@ export default () => {
       </a>
       <a href="mailto:jakeacooley@gmail.com">
         <FontAwesome
-          className='email'
-          name='envelope'
+          className='icon'
+          name='envelope-square'
           size='2x'
           style={{ color: '#FED766' }}
         />
