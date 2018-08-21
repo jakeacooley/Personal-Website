@@ -164,9 +164,9 @@ a:hover {
   letter-spacing: -0.5px;
 }
 
-.page-wrapper {
+/* .page-wrapper {
 
-}
+} */
 
 .contact-wrapper {
   padding: 2% 0;
@@ -177,10 +177,21 @@ a:hover {
   padding-right: 1%;
 }
 
-.icon {
+/* .icon {
   
-}
+} */
 /*
 .page-wrapper p {
   margin-top: 20px;
 }*/
+
+.Portfolio a {
+  color: #252a30;
+  /* text-decoration: none; */
+  letter-spacing: -1px;
+  transition: all 0.3s ease-in;
+}
+
+.Portfolio h1 {
+  margin-bottom: 0px;
+}
